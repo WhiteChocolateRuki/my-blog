@@ -1,0 +1,42 @@
+.ilk{
+    background-color: #F2D1D1;
+    font-size: 30px;
+    text-align: center;
+    margin: 10px;
+    padding:20px;
+    color: rgb(62, 61, 61);
+    
+}
+
+p{
+    text-align: center;
+}
+
+article{
+    padding:30px;
+    scroll-behavior: 30px
+}
+
+
+body{
+    background-color: #ffe6e6;
+}
+
+h1{
+    color: #0C356A;
+    text-align: center;
+    padding-top: 30px;
+}
+
+h3{
+    color: #E48586
+}
+
+ul{
+    color: #A2678A
+}
+
+.baslik-list{
+    color: #4D3C77;
+    
+}
